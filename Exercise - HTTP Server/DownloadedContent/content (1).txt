@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html  dir="ltr" lang="sv" xml:lang="sv">
+<head>
+    <title>22VT-1DV502</title>
+    <link rel="icon" href="https://mymoodle.lnu.se/pluginfile.php/1/theme_adaptable/favicon/1643543941/favicon.ico" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, 22VT-1DV502" />
+<link rel="stylesheet" type="text/css" href="https://mymoodle.lnu.se/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://mymoodle.lnu.se/theme/styles.php/_s/adaptable/1643543941_1624367280/all" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/mymoodle.lnu.se","sesskey":"WizoHq102o","sessiontimeout":"14400","themerev":"1643543941","slasharguments":1,"theme":"adaptable","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1643543941","admin":"admin","svgicons":false,"usertimezone":"Europa\/Stockholm","contextid":6838354,"langrev":1643543941,"templaterev":"1643543941"};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/mymoodle.lnu.se\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/mymoodle.lnu.se\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/mymoodle.lnu.se\/li
+----------------------------------------------------------------------------------------------------<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8"><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin /><script>WebFontConfig={google:{families:["Montserrat:400,,600","Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Shadows Into Light:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Varela Round:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap"]}};if ( typeof WebFont === "object" && typeof WebFont.load === "function" ) { WebFont.load( WebFontConfig ); }</script><script data-optimized="1" src="https://softuni.org/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WKPMRBN');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136789199-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136789199-2');
+</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video
